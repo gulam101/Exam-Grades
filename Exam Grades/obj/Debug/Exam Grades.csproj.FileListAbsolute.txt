@@ -1,0 +1,10 @@
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam Grades.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam_Grades.Form1.resources
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam_Grades.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam Grades.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam Grades.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\bin\Debug\Exam Grades.exe.config
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\bin\Debug\Exam Grades.exe
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\bin\Debug\Exam Grades.pdb
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam Grades.exe
+C:\Users\Gulam\source\repos\Exam Grades\Exam Grades\obj\Debug\Exam Grades.pdb
