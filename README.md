@@ -21,7 +21,7 @@ I also played around with the interfaces and broke the code to understand why it
 
 ### Prerequisites:
 You will need the following software installed to be able to use the application:
-- Visual Studio 2019
+- Visual Studio 2017+
 
 ### Tools:
 
