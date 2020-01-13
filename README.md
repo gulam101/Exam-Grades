@@ -1,5 +1,5 @@
 # Exam-Grades
-Simple program that displays a message box depending on a grade that the user inputs.
+Program that displays a message box depending on a grade that the user inputs.
 
 This project was my first attempt at C#. I learnt how to user the Windows Form toolbox and drag items on the screen and then I learnt how to give them instructions.
 
