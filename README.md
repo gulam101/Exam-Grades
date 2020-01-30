@@ -19,10 +19,17 @@ I made this project in college and then submitted as part of my work which recei
 ### Planned Features:
 I wouldn't make any major changes to the interface but maybe I could add some unit tests. It would make it easier to test data rather than having to type in a value.
 
+### Constraints:
+None.
+
+### Instrcutions
+User loads application and types in a value. Depending on the value they put it will give them either a fail, pass, merit or distinction
+
 ### Tools:
 You will need the following software installed to be able to use the application:
 - Visual Studio 2017+
 
 ### Resources:
+- https://docs.microsoft.com/en-us/dotnet/csharp/
 
 ### Screenshots:
