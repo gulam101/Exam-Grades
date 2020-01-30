@@ -3,6 +3,8 @@
 
 # Table of Contents:
 - Description
+- Planned Features
+- Constraints
 - Instructions
 - Tools
 - Resources
