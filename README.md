@@ -1,6 +1,8 @@
 # Exam-Grades
 ### Program that displays a message box depending on a grade that the user inputs
 
+# Table of Contents:
+
 [Description](#Description)  
 <a name="Description"/>
 
@@ -24,15 +26,6 @@
 
 [Screenshots](#Screenshots)
 <a name="Screenshots"/>
-
-# Table of Contents:
-- Description
-- Planned Features
-- Constraints
-- Instructions
-- Tools
-- Resources
-- Screenshots
 
 ### Description: 
 
