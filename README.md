@@ -1,6 +1,30 @@
 # Exam-Grades
 ### Program that displays a message box depending on a grade that the user inputs
 
+[Description](#Description)  
+<a name="Description"/>
+
+[Planned Features](#Planned_Features)  
+<a name="Planned_Features"/>
+
+[What I learnt](#What_I_Learnt)  
+<a name="What_I_Learnt"/>
+
+[Constraints](#Constraints)  
+<a name="Constraints"/>
+
+[Instructions](#Instructions)  
+<a name="Instructions"/>
+
+[Tools](#Tools)  
+<a name="Tools"/>
+
+[Resources](#Resources)  
+<a name="Resources"/>
+
+[Screenshots](#Screenshots)
+<a name="Screenshots"/>
+
 # Table of Contents:
 - Description
 - Planned Features
