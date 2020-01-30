@@ -16,11 +16,9 @@ I made this project in college and then submitted as part of my work which recie
 
 I also played around with the interfaces and broke the code to understand why it broke and how to change in the near future.
 
-### Prerequisites:
+### Tools:
 You will need the following software installed to be able to use the application:
 - Visual Studio 2017+
-
-### Tools:
 
 ### Resources:
 
