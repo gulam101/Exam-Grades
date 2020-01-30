@@ -3,8 +3,8 @@
 
 # Table of Contents:
 - Description
-- Prerequisites
-- Setup
+- Instructions
+- Tools
 - Resources
 - Screenshots
 
