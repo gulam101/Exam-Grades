@@ -36,6 +36,10 @@ I made this project in college and then submitted as part of my work which recei
 ### Planned Features:
 I wouldn't make any major changes to the interface but maybe I could add some unit tests. It would make it easier to test data rather than having to type in a value.
 
+### What I Learnt:
+- Windows Standard Form
+-
+
 ### Constraints:
 None.
 
