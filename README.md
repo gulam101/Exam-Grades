@@ -38,7 +38,8 @@ I wouldn't make any major changes to the interface but maybe I could add some un
 
 ### What I Learnt:
 - Windows Standard Form
--
+- Variables
+- Toolbox in Visual Studio
 
 ### Constraints:
 None.
