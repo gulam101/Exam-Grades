@@ -47,7 +47,6 @@ I made this project in college and then submitted as part of my work which recei
 - Step 4: Click run at the top and the application will run
 - Step 5: Input values into box and you will be given a score
 
-
 ### Planned Features:
 I wouldn't make any major changes to the interface but maybe I could add some unit tests. It would make it easier to test data rather than having to type in a value.
 
