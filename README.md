@@ -30,6 +30,9 @@
 [Screenshots](#Screenshots)
 <a name="Screenshots"/>
 
+[Credits](#Credits)  
+<a name="Credits"/>
+
 ### Description: 
 
 This project was my first attempt at C#. I learnt how to user the Windows Form toolbox and drag items on the screen and then I learnt how to make them do different things. When I created this project, I didn’t have a design to follow but instead I quickly put something together and got it working.
