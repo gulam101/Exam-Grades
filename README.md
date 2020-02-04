@@ -21,9 +21,6 @@
 [Instructions](#Instructions)  
 <a name="Instructions"/>
 
-[Tools](#Tools)  
-<a name="Tools"/>
-
 [Resources](#Resources)  
 <a name="Resources"/>
 
@@ -53,9 +50,6 @@ None.
 ### Instrcutions:
 User loads application and types in a value. Depending on the value they put it will give them either a fail, pass, merit or distinction
 
-### Tools:
-You will need the following software installed to be able to use the application:
-- Visual Studio 2017+
 
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/csharp/
