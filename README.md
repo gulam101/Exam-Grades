@@ -59,10 +59,6 @@ I wouldn't make any major changes to the interface but maybe I could add some un
 ### Constraints:
 None.
 
-### Instrcutions:
-User loads application and types in a value. Depending on the value they put it will give them either a fail, pass, merit or distinction
-
-
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/csharp/
 
