@@ -9,6 +9,9 @@
 [Prerequisites](#Prerequisites)  
 <a name="Prerequisites"/>
 
+[Instructions](#Instructions)  
+<a name="Instructions"/>
+
 [Planned Features](#Planned_Features)  
 <a name="Planned_Features"/>
 
@@ -17,9 +20,6 @@
 
 [Constraints](#Constraints)  
 <a name="Constraints"/>
-
-[Instructions](#Instructions)  
-<a name="Instructions"/>
 
 [Resources](#Resources)  
 <a name="Resources"/>
