@@ -36,6 +36,11 @@ This project was my first attempt at C#. I learnt how to user the Windows Form t
 
 I made this project in college and then submitted as part of my work which received the highest grade because I had a strong understand of how the interface works and how to change it. I did learn a lot of new techniques and I will list them down in the “What I Learnt” section.
 
+### Prerequisites:
+- Visual Studio 2019 (Recommended)
+- Windows 10 (OS)
+
+
 ### Planned Features:
 I wouldn't make any major changes to the interface but maybe I could add some unit tests. It would make it easier to test data rather than having to type in a value.
 
