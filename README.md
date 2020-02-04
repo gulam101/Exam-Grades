@@ -67,3 +67,6 @@ User loads application and types in a value. Depending on the value they put it 
 - https://docs.microsoft.com/en-us/dotnet/csharp/
 
 ### Screenshots:
+
+### Credits:
+- Gulam Qasim
