@@ -45,7 +45,7 @@ I made this project in college and then submitted as part of my work which recei
 - Step 2: Clone this project
 - Step 3: Once downloading is finished, open it up using Visual Studio
 - Step 4: Click run at the top and the application will run
-- Step 5: Input values into box and you will be given a score!
+- Step 5: Input values into box and you will be given a score
 
 
 ### Planned Features:
