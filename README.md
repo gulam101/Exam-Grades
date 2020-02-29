@@ -1,5 +1,5 @@
 # Exam-Grades
-### Program that displays a message box depending on a grade that the user inputs
+## Program that displays a message box depending on a grade that the user inputs - Windows Standard Form
 
 # Table of Contents:
 
